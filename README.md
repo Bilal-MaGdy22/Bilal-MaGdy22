@@ -1,4 +1,6 @@
-# Hi There I'm Bilal MaGdy
+# Hi There I'm Bilal MaGdy 
+
+![logo](https://raw.githubusercontent.com/Bilal-MaGdy22/Bilal-MaGdy22/refs/heads/main/logo.png)
 
 Hello! I'm a passionate web developer with experience in PHP, JavaScript, HTML, and CSS. I enjoy creating dynamic and responsive web applications, and I'm always eager to learn new technologies and improve my skills.
 
